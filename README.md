@@ -1,5 +1,5 @@
 # slack2polly
-Get messages from Slack channel and speach it via Amazon Polly.
+Get messages from Slack channel and speak it via Amazon Polly.
 
 It works on Mac only.
 
