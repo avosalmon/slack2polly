@@ -1,6 +1,8 @@
 # slack2polly
 Get messages from Slack channel and speach it via Amazon Polly.
+
 It works on Mac only.
+
 Inspired by [kasei-san/call_of_slack](https://github.com/kasei-san/call_of_slack)
 
 ## Setup
