@@ -23,4 +23,4 @@ $ cp .env.example .env
 bundle exec ruby ./main.rb
 ```
 
-- When you post a message to the channel, your Mac will speach it!
+- When you post a message to the channel, your Mac will speak it!
